@@ -1,0 +1,7 @@
+<form action="regcheck.php" method="post">
+    用户名：<input type="text" name="username"/>
+    <br/>
+    密　码:<input type="password" name="password"/>
+    <br/>
+    <input type="Submit" name="Submit" value="注册"/>
+</form>
